@@ -67,7 +67,9 @@ public class Kata {
         space = space + 2;
       }
       if(i < rowSize/2){
-      lettStart++;
+        lettStart++;
+        lett
+      }
 
     }
 
